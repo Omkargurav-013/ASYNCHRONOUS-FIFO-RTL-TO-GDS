@@ -145,22 +145,31 @@ The FIFO consists of:
 
 ## 📷 Screenshots
 
+### `GLS Simulation`
+<img width="1663" height="913" alt="Screenshot 2026-03-01 151336" src="https://github.com/user-attachments/assets/4707d5ab-2d62-4a5d-a5c3-54b424233256" />
+<img width="1558" height="872" alt="Screenshot 2026-03-01 151020" src="https://github.com/user-attachments/assets/6ddd9ae4-bcb1-4c5c-863b-600f3f9bd81f" />
+
+
+---
  ### `Floorplan View`
   <img width="991" height="635" alt="image" src="https://github.com/user-attachments/assets/02947ae6-f872-4349-bb8a-ed36438b487e" />
+
 ---
 
 ### `Placement Clustering`
 <img width="1018" height="650" alt="image" src="https://github.com/user-attachments/assets/f9535601-bef2-4a6b-bcbf-f030fbe4331b" />
 
+---
+
 
 ### `Clock Tree`
 <img width="1020" height="651" alt="image" src="https://github.com/user-attachments/assets/b0ff26a4-e627-42c4-a2fd-f1ba315ec448" />
 
-
+---
 ### `Routing View` 
 <img width="1050" height="646" alt="image" src="https://github.com/user-attachments/assets/d3ecc4af-fd0a-4118-b947-c2af27986ce3" />
 
-
+---
 ### `Final Timing Report Snippet`
 <img width="892" height="612" alt="image" src="https://github.com/user-attachments/assets/373df6b6-6088-4c0e-8505-2db07813adf9" />
 
