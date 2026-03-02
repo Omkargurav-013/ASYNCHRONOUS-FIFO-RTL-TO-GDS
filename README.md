@@ -118,6 +118,8 @@ The FIFO consists of:
 * `async_fifo.gds`
 * `async_fifo.sdf`
 * `async_fifo.lib`
+* `async_fifo.mag`
+* `async_fifo.lef`
 * SPEF files
 * LVS reports
 * DRC reports
@@ -171,7 +173,8 @@ The FIFO consists of:
 
 ---
 ### `Final Timing Report Snippet`
-<img width="892" height="612" alt="image" src="https://github.com/user-attachments/assets/373df6b6-6088-4c0e-8505-2db07813adf9" />
+<img width="752" height="513" alt="image" src="https://github.com/user-attachments/assets/e633c058-8278-429a-9adf-d18e9eee2ed6" />
+
 
 ---
 
