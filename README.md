@@ -90,7 +90,7 @@ The FIFO consists of:
 
 | Check | Result |
 | :--- | :--- |
-| **Setup Slack (Worst)** | 3.55 ns |
+| **Setup Slack (Worst)** | 3.55 ns (min) , 3.49 ns (nom) , 3.42 ns (max) |
 | **Hold Slack (Worst)** | 0.29 ns |
 | **TNS** | 0.00 |
 | **WNS** | 0.00 |
