@@ -76,7 +76,7 @@ The FIFO consists of:
 
 ### 5️⃣ Clock Tree Synthesis (CTS)
 * Separate clock trees for `wr_clk` and `rd_clk`
-* Skew **≈ ±0.01–0.06 ns**
+* Skew **≈ ±0.01–0.03 ns**
 * Balanced clock insertion delays
 
 ### 6️⃣ Routing
